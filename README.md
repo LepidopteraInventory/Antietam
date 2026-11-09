@@ -3,7 +3,7 @@
 <br>
 2026-2028 <br>
 Project Lead: Elise Larsen, Biology Dept., Georgetown University <br>
-Contact: antietamlepinventory [at] gmail (.com)
+Contact: antietamlepinventory [at] gmail [dot] [com]
 <br>
 <p>Inventory will photo-document species present in and around restored grasslands.
 Website to be developed
