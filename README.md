@@ -1,9 +1,10 @@
 # Antietam Project of Lepidoptera Inventory
-Inventory of Lepidoptera at Antietam National Battlefield associated with grassland restorations.
-2026-2028
-Project Lead: Elise Larsen, Biology Dept., Georgetown University
+### Inventory of Lepidoptera at Antietam National Battlefield associated with grassland restorations.
+<br>
+2026-2028 <br>
+Project Lead: Elise Larsen, Biology Dept., Georgetown University <br>
 Contact: antietamlepinventory [at] gmail (.com)
-
-Inventory will photo-document species present in and around restored grasslands
+<br>
+<p>Inventory will photo-document species present in and around restored grasslands.
 Website to be developed
-
+</p>
