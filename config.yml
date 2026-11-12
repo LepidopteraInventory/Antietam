@@ -1,0 +1,8 @@
+name: Antietam Inventory of Lepidoptera
+theme: slate
+
+lsi: false
+safe: true
+source: https://github.com/LepidopteraInventory/
+incremental: false
+highlighter: rouge
